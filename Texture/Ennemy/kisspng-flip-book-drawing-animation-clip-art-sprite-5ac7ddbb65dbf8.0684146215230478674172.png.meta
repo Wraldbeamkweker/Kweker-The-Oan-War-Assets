@@ -1,0 +1,1284 @@
+fileFormatVersion: 2
+guid: 0dc31bd463da24b0e9777bec0d47d926
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6362344424603957752
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_0
+  - first:
+      213: -5886087301846768322
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_1
+  - first:
+      213: 3178315207138123351
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_2
+  - first:
+      213: -4882833404149418966
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_3
+  - first:
+      213: 4816149331683768516
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_4
+  - first:
+      213: 9106464277356779758
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_5
+  - first:
+      213: -8117287590890398419
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_6
+  - first:
+      213: 8652210533976876845
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_7
+  - first:
+      213: 1881598598406087740
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_8
+  - first:
+      213: 5612775337177965179
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_9
+  - first:
+      213: 895068958143233966
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_10
+  - first:
+      213: -2301182264879319559
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_11
+  - first:
+      213: -1116478307682031968
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_12
+  - first:
+      213: -1769367462830809444
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_13
+  - first:
+      213: -3761707594816863686
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_14
+  - first:
+      213: -6246631445260091352
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_15
+  - first:
+      213: 3872274446373027256
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_16
+  - first:
+      213: -7030472495290731242
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_17
+  - first:
+      213: 6303899648344048124
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_18
+  - first:
+      213: -7090654008139929655
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_19
+  - first:
+      213: 2631148631218897825
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_20
+  - first:
+      213: 8675077592275855684
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_21
+  - first:
+      213: -4763718062800558881
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_22
+  - first:
+      213: -4182777995960341510
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_23
+  - first:
+      213: -7469279674488237618
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_24
+  - first:
+      213: 3629113494247767800
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_25
+  - first:
+      213: -4064366595350149856
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_26
+  - first:
+      213: -9046600959348109924
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_27
+  - first:
+      213: -3313803011357547772
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_28
+  - first:
+      213: 216181790100052951
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_29
+  - first:
+      213: 1984358204486885832
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_30
+  - first:
+      213: 745956829834909358
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_31
+  - first:
+      213: -5651244553100642544
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_32
+  - first:
+      213: -1838236938435130650
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_33
+  - first:
+      213: 1640784854316776990
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_34
+  - first:
+      213: 4432042320544948196
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_35
+  - first:
+      213: 6144074417268248376
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_36
+  - first:
+      213: -4451751960871893783
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_37
+  - first:
+      213: 4244206280029729665
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_38
+  - first:
+      213: -4944621347397933976
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_39
+  - first:
+      213: -6219738299202708007
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_40
+  - first:
+      213: -5107254978413181586
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_41
+  - first:
+      213: 73087495219210723
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_42
+  - first:
+      213: 6528174039888408636
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_43
+  - first:
+      213: 3772169416949925740
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_44
+  - first:
+      213: -7032007049047430497
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_45
+  - first:
+      213: 568727917387843725
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_46
+  - first:
+      213: 3480495605013223952
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_47
+  - first:
+      213: 1480365537273239502
+    second: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_48
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 970
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8064bc8747964b7a0800000000000000
+      internalID: -6362344424603957752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_1
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 970
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e356c78e8ca605ea0800000000000000
+      internalID: -5886087301846768322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 960
+        width: 184
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e90b967d4ab1c20800000000000000
+      internalID: 3178315207138123351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_3
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 964
+        width: 184
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a243348a3e0bc3cb0800000000000000
+      internalID: -4882833404149418966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_4
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 991
+        width: 184
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8fe34dc4666d240800000000000000
+      internalID: 4816149331683768516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_5
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 964
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee892ab1309a06e70800000000000000
+      internalID: 9106464277356779758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 960
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d9a4d71f9995f80800000000000000
+      internalID: -8117287590890398419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_7
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 960
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27a597a3a3d21870800000000000000
+      internalID: 8652210533976876845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_8
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 964
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c342ed3c4f7cc1a10800000000000000
+      internalID: 1881598598406087740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 661
+        width: 181
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72e0907e6594ed40800000000000000
+      internalID: 5612775337177965179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_10
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 661
+        width: 184
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf3b93a97ceb6c00800000000000000
+      internalID: 895068958143233966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 798
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5707a1cee8010e0800000000000000
+      internalID: -2301182264879319559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_12
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 661
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6ee2ff4e87180f0800000000000000
+      internalID: -1116478307682031968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_13
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 661
+        width: 184
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ed5d4caa1f177e0800000000000000
+      internalID: -1769367462830809444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_14
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 661
+        width: 184
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a324d067fdabbcbc0800000000000000
+      internalID: -3761707594816863686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 770
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820cc7eebc18f49a0800000000000000
+      internalID: -6246631445260091352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 752
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdf2e0c7151db530800000000000000
+      internalID: 3872274446373027256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_17
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 752
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615ba0bb38ebe6e90800000000000000
+      internalID: -7030472495290731242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 752
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1c147a453fb7750800000000000000
+      internalID: 6303899648344048124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_19
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 752
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7ae9b5fbfe89d90800000000000000
+      internalID: -7090654008139929655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_20
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 347
+        width: 187
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3ce0b5db7b38420800000000000000
+      internalID: 2631148631218897825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_21
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 606
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449ad8e8b11146870800000000000000
+      internalID: 8675077592275855684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_22
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 601
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd429a049afd3edb0800000000000000
+      internalID: -4763718062800558881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_23
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 347
+        width: 192
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afba670f299c3f5c0800000000000000
+      internalID: -4182777995960341510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_24
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 603
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec15512c5b9c75890800000000000000
+      internalID: -7469279674488237618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_25
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 606
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fef632ce733d5230800000000000000
+      internalID: 3629113494247767800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_26
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 603
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025c03f8d187897c0800000000000000
+      internalID: -4064366595350149856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_27
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 601
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d0951cb54047280800000000000000
+      internalID: -9046600959348109924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_28
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 347
+        width: 192
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403e96ce7b10302d0800000000000000
+      internalID: -3313803011357547772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_29
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 588
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db52d55138000300800000000000000
+      internalID: 216181790100052951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_30
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 347
+        width: 184
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1a29df54bd98b10800000000000000
+      internalID: 1984358204486885832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_31
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 511
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea61614d8cb2a5a00800000000000000
+      internalID: 745956829834909358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_32
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 347
+        width: 192
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0173391450fb291b0800000000000000
+      internalID: -5651244553100642544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_33
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 438
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea829f6e354d76e0800000000000000
+      internalID: -1838236938435130650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 438
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e746ab12d35c610800000000000000
+      internalID: 1640784854316776990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_35
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 438
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef54913207c18d30800000000000000
+      internalID: 4432042320544948196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_36
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 438
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fc6da3123244550800000000000000
+      internalID: 6144074417268248376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_37
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 438
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e405109d233832c0800000000000000
+      internalID: -4451751960871893783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_38
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 33
+        width: 192
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18377aaff1376ea30800000000000000
+      internalID: 4244206280029729665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_39
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 33
+        width: 192
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864688f051d216bb0800000000000000
+      internalID: -4944621347397933976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_40
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 33
+        width: 192
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd512078fc0fa9a0800000000000000
+      internalID: -6219738299202708007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 146
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65465218a26f19b0800000000000000
+      internalID: -5107254978413181586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_42
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 33
+        width: 192
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9601e80b8a30100800000000000000
+      internalID: 73087495219210723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_43
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 26
+        width: 192
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30b97793bbb89a50800000000000000
+      internalID: 6528174039888408636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_44
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 139
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6784e15910795430800000000000000
+      internalID: 3772169416949925740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_45
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 131
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a2c7798da496e90800000000000000
+      internalID: -7032007049047430497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 124
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8800c1170784e700800000000000000
+      internalID: 568727917387843725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_47
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 124
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a1f13ff443d4030800000000000000
+      internalID: 3480495605013223952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-flip-book-drawing-animation-clip-art-sprite-5ac7ddbb65dbf8.0684146215230478674172_48
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 26
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7d6e2ec905b8410800000000000000
+      internalID: 1480365537273239502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
