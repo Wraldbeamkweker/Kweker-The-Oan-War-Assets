@@ -35,7 +35,7 @@ public class CameraP : MonoBehaviour
         {
             finintro = false;
             preintro = false;
-            titre.transform.position = new Vector3(titre.transform.position.x,titre.transform.position.y,1);
+            titre.transform.position = new Vector3(titre.transform.position.x,titre.transform.position.y,-1);
         }
         if (Input.anyKeyDown && transform.position.y >= 57.5f && transform.position.y <= 77)
         {

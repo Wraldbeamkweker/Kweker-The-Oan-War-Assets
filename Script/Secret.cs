@@ -12,7 +12,7 @@ public class Secret: MonoBehaviour
             transform.position = new Vector3(0,0,-6);
             if (back)
             {
-                back.transform.position = new Vector3(0,0,-4);
+                back.transform.position = new Vector3(0,0,4);
             }
         }
     }
@@ -29,7 +29,7 @@ public class Secret: MonoBehaviour
         if (GetComponent<Collider2D>().enabled == false)
         {
             transform.position = new Vector3(0,0,-6);
-            back.transform.position = new Vector3(0,0,-4);
+            back.transform.position = new Vector3(0,0,4);
         }
     }
     // Start is called before the first frame update

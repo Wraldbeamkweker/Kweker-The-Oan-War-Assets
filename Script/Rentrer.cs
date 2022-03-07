@@ -11,19 +11,25 @@ public class Rentrer : MonoBehaviour
     public AudioSource ground;
     public AudioSource waiting;
     public AudioSource vaisseau;
+    public GameObject fondu;
     bool musique = true;
     bool retour = false;
     bool entrer = true;
+    bool fast = false;
     public void retourvaisseau(){
-        if (Input.GetKeyDown(KeyCode.F)){
-            transform.position = new Vector3(-43,70,transform.position.z);
-            play.transform.position = new Vector3(-59,95,play.transform.position.z);
+        if (Input.GetKeyDown(KeyCode.F)&&fast){
+            transform.position = new Vector3(-48,70,transform.position.z);
+            play.transform.position = new Vector3(-64,95,play.transform.position.z);
+            fast = false;
+            fondu.GetComponent<GestionWait>().waitScreen(3);
         }
     }
     public void sortievaisseau(){
-        if (Input.GetKeyDown(KeyCode.F)){
+        if (Input.GetKeyDown(KeyCode.F)&&fast){
             transform.position = new Vector3(0,10,transform.position.z);
             play.transform.position = new Vector3(-16.65f,35.15f,play.transform.position.z);
+            fast = false;
+            fondu.GetComponent<GestionWait>().waitScreen(3);
         }
     }
     private void OnCollisionStay2D(Collision2D collision){
@@ -35,6 +41,7 @@ public class Rentrer : MonoBehaviour
                     musique = false;
                     retour = true;
                     entrer = false;
+                    fast = true;
                     camouflage.GetComponent<Collider2D>().enabled = false;
                 } else if (entrer == false){
                     vaisseau.Stop();
@@ -42,6 +49,7 @@ public class Rentrer : MonoBehaviour
                     musique = false;
                     retour = false;
                     entrer = true;
+                    fast = true;
                     camouflage.GetComponent<Collider2D>().enabled = false;
                 }
             }
@@ -58,9 +66,9 @@ public class Rentrer : MonoBehaviour
     {
         if (retour == true){
             porte.GetComponent<Collider2D>().enabled = false;
-            if (cam.transform.position.y >=51.2f && transform.position.x != -43){
-                transform.position = new Vector3(-43,transform.position.y,transform.position.z);
-                play.transform.position = new Vector3(-59,play.transform.position.y+0.5f,play.transform.position.z);
+            if (cam.transform.position.y >=51.2f && transform.position.x != -48){
+                transform.position = new Vector3(-48,transform.position.y,transform.position.z);
+                play.transform.position = new Vector3(-64,play.transform.position.y+0.5f,play.transform.position.z);
                 retourvaisseau();
             }
             if (transform.position.y < 80){
